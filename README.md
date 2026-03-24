@@ -66,8 +66,11 @@ I don't collect tools -- I pick the right ones for the system I'm designing.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lstan44&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lstan44&theme=github-dark-blue&hide_border=true" height="165" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
+
+<img src="./languages.svg" alt="Top Languages" />
+
+<img src="./isocalendar.svg" alt="Contribution Calendar" />
 
 </div>
 
